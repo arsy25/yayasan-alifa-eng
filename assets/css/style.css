@@ -373,7 +373,7 @@ ol li, ul li { margin-bottom: 10px; }
 #dtr-header-global.on-scroll .logo-alt, #dtr-header-global .logo-default { display: block; }
 /*== Menu  ==*/
 .main-navigation { position: relative; margin-right: -20px; padding: 0; }
-.main-navigation .sf-menu:first-child > li a { position: relative; padding: 5px 10px 5px 0; margin-right: 10px; font-size: 17px; overflow: hidden; }
+.main-navigation .sf-menu:first-child > li a { position: relative; padding: 5px 10px 5px 0; margin-right: 1px; font-size: 17px; overflow: hidden; }
 .main-navigation .sf-menu:first-child > li a.active:before { transition-delay: .3s; }
 .main-navigation .sf-menu:first-child > li li a { line-height: 1em; padding: 12px 20px; }
 .main-navigation .sf-menu:first-child > li a::before { content: ""; width: 0; height: 2px; position: absolute; left: 0; bottom: 0; transition: width .5s; }
